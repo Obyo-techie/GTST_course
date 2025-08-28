@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 e3b94a6d1edba01a7df3940b85f187e6060ad2da Raxual-Hunter <raxual@localhost.localdomain> 1755439550 +0300	commit (initial): Delete all files
+e3b94a6d1edba01a7df3940b85f187e6060ad2da e3b94a6d1edba01a7df3940b85f187e6060ad2da Raxual-Hunter <raxual@localhost.localdomain> 1755439590 +0300	Branch: renamed refs/heads/temp_branch to refs/heads/main
+e3b94a6d1edba01a7df3940b85f187e6060ad2da a5106a69cadab8d4cd9e773d4c3beee898a54d5f Raxual-Hunter <raxual@localhost.localdomain> 1755441529 +0300	commit: Add .gitignore to ignore Obsidian configs
+a5106a69cadab8d4cd9e773d4c3beee898a54d5f 3c6e1af2cfc0004a8fb93c214906ed5394653272 Raxual-Hunter <raxual@localhost.localdomain> 1755441616 +0300	pull origin main --rebase (finish): refs/heads/main onto 8057669e22e7d68eb79b8916db4bdb7e29d81c43
+3c6e1af2cfc0004a8fb93c214906ed5394653272 649bb08913d3793d08fc318969fa34bece207386 Raxual-Hunter <raxual@localhost.localdomain> 1755441950 +0300	commit: A
+649bb08913d3793d08fc318969fa34bece207386 129259d0ea9fe8747448c4f73bf88fec7c5ad682 Raxual-Hunter <raxual@localhost.localdomain> 1755442591 +0300	commit: A
+129259d0ea9fe8747448c4f73bf88fec7c5ad682 c1a88a00a24e835ff825f3e71323d28611240668 Raxual-Hunter <raxual@localhost.localdomain> 1755443229 +0300	commit: ABCDEFGHI
+c1a88a00a24e835ff825f3e71323d28611240668 25e8e8702e3c1b4836cee33ee9de67f9906319c5 Raxual-Hunter <raxual@localhost.localdomain> 1755802706 +0300	commit: vault backup: 2025-08-21 21:58:26
+25e8e8702e3c1b4836cee33ee9de67f9906319c5 8739b95d23dc5e59e8dc16e407f68e252c911554 Raxual-Hunter <raxual@localhost.localdomain> 1755921846 +0300	commit: vault backup: 2025-08-23 07:04:06
+8739b95d23dc5e59e8dc16e407f68e252c911554 8411e43d169042881a5d91237777cebbbb540eb2 Obsan yoseph <obsanyoseph@gmail.com> 1755973800 +0300	commit: A
+8411e43d169042881a5d91237777cebbbb540eb2 b08ae8707a2e76a332419dd7b3573633a2af63aa Obsan yoseph <obsanyoseph@gmail.com> 1755973972 +0300	commit: A
+b08ae8707a2e76a332419dd7b3573633a2af63aa f8ff234b99493328be6b495259e31e3e9f3149b1 obsan <obsanyoseph@amil.com> 1755974476 +0300	commit: Refine .gitignore for Obsidian (cross-OS safe)
+f8ff234b99493328be6b495259e31e3e9f3149b1 d20d762eabe28eabb0ada4c17ed579a8b383fa7d obsan <obsanyoseph@amil.com> 1755974988 +0300	pull: Merge made by the 'ort' strategy.
+d20d762eabe28eabb0ada4c17ed579a8b383fa7d ddfacb9d180309ce9d84bbd4bfee64f622f7831f obsan <obsanyoseph@amil.com> 1755975499 +0300	commit: Raxual-Hunter 2025-8-23:21:58:19
+ddfacb9d180309ce9d84bbd4bfee64f622f7831f e20359efbd0bd80c15418e986489005e596e6b6a obsan <obsanyoseph@amil.com> 1756025881 +0300	commit: Raxual-Hunter 2025-8-24:11:58:1
+e20359efbd0bd80c15418e986489005e596e6b6a 89c98f6a1a2128a9eaef4a78a8b79cddcbb44b5d obsan <obsanyoseph@amil.com> 1756027681 +0300	commit: Raxual-Hunter 2025-8-24:12:28:1
+89c98f6a1a2128a9eaef4a78a8b79cddcbb44b5d 4c76a4c770441669eef25ead6b0ae77087186e98 obsan <obsanyoseph@amil.com> 1756029482 +0300	commit: Raxual-Hunter 2025-8-24:12:58:1
+4c76a4c770441669eef25ead6b0ae77087186e98 43200e4beac1f2470cf566094e69910a5a7770f0 obsan <obsanyoseph@amil.com> 1756031282 +0300	commit: Raxual-Hunter 2025-8-24:13:28:1
+43200e4beac1f2470cf566094e69910a5a7770f0 4169f36c6afbec4f29de1e6ba42f3fe39c63d6ad obsan <obsanyoseph@amil.com> 1756033081 +0300	commit: Raxual-Hunter 2025-8-24:13:58:1
+4169f36c6afbec4f29de1e6ba42f3fe39c63d6ad 7b16a07e4932ba09742079fa2da8a82eca1a7b3f obsan <obsanyoseph@amil.com> 1756033088 +0300	pull origin main --no-rebase: Merge made by the 'ort' strategy.
+7b16a07e4932ba09742079fa2da8a82eca1a7b3f 239e4d7a4a064841adcf7c17b8c8fbf43fe4fe05 obsan <obsanyoseph@amil.com> 1756142075 +0300	commit: Add .gitattributes to normalize line endings
+239e4d7a4a064841adcf7c17b8c8fbf43fe4fe05 a240c0d529dad41a5d569e2c1807a95750881e79 obsan <obsanyoseph@amil.com> 1756142998 +0300	pull origin main --rebase (finish): refs/heads/main onto 182fc8f70b27469921adaf4c828e773cc1c17816
+a240c0d529dad41a5d569e2c1807a95750881e79 ef93df735284a416833444b9c1775b85595f3f0f Raxual-Hunter <raxual@localhost.localdomain> 1756152601 +0300	commit: parrot 2025-8-25:23:10:1
+ef93df735284a416833444b9c1775b85595f3f0f e55b861ac5e99321f51fd48f8ccf05f7505eacc8 Raxual-Hunter <raxual@localhost.localdomain> 1756154377 +0300	pull origin main --no-rebase: Fast-forward
+e55b861ac5e99321f51fd48f8ccf05f7505eacc8 e5631948984c58abbfae0ebbbdff29704a9eff21 Raxual-Hunter <raxual@localhost.localdomain> 1756159773 +0300	commit: parrot 2025-8-26:1:9:33
+e5631948984c58abbfae0ebbbdff29704a9eff21 f4c5512a2e5a06aaa6a956156cd2e7284d911c5b Raxual-Hunter <raxual@localhost.localdomain> 1756159808 +0300	commit: parrot 2025-8-26:1:10:7
+f4c5512a2e5a06aaa6a956156cd2e7284d911c5b 8fa00267761f3a483584da531b51afddd4cd31f2 Raxual-Hunter <raxual@localhost.localdomain> 1756303986 +0300	commit: parrot 2025-8-27:17:13:6
+8fa00267761f3a483584da531b51afddd4cd31f2 70cfa0c8ec6368236418c33689645d2b424f87c9 Raxual-Hunter <raxual@localhost.localdomain> 1756305786 +0300	commit: parrot 2025-8-27:17:43:6
+70cfa0c8ec6368236418c33689645d2b424f87c9 4cea076a8bf016be4cc59818ffa7cd554e174fa0 Raxual-Hunter <raxual@localhost.localdomain> 1756307586 +0300	commit: parrot 2025-8-27:18:13:6
+4cea076a8bf016be4cc59818ffa7cd554e174fa0 686ffa7bfe9db027e140671dabae5d2170468a36 Raxual-Hunter <raxual@localhost.localdomain> 1756307636 +0300	commit: parrot 2025-8-27:18:13:56
+686ffa7bfe9db027e140671dabae5d2170468a36 dba2a1f8b6eeba386aa1e2f067346aa6b0eeea8f Raxual-Hunter <raxual@localhost.localdomain> 1756308429 +0300	commit: parrot 2025-8-27:18:27:9
+dba2a1f8b6eeba386aa1e2f067346aa6b0eeea8f bb89feaab9ca69a6c149b90496700ca75aa0cbf7 Raxual-Hunter <raxual@localhost.localdomain> 1756325409 +0300	commit: parrot 2025-8-27:23:10:9
+bb89feaab9ca69a6c149b90496700ca75aa0cbf7 27c170b486889e59f089f6ea1b281b53972fc40c Raxual-Hunter <raxual@localhost.localdomain> 1756326348 +0300	commit: parrot 2025-8-27:23:25:47
