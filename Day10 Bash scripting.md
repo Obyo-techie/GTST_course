@@ -75,6 +75,7 @@ if u need to add new line on your code just add echo
     -  read -p "text to display " var
     - read -sp(silent prompt) "password:" var=> used to accept hidden text like password
          - ex : the pasword is unseen on linux, do u notice it?
+         - 
 ## Argument
 - these haelps to get input before the script starts
 - syntax 
