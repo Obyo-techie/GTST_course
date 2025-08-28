@@ -75,11 +75,17 @@ if u need to add new line on your code just add echo
     -  read -p "text to display " var
     - read -sp(silent prompt) "password:" var=> used to accept hidden text like password
          - ex : the pasword is unseen on linux, do u notice it?
-         - 
+     - read -a var => for accepting arrays(lists)
 ## Argument
 - these haelps to get input before the script starts
 - syntax 
     -  just use $0-$9 while u want to work with input
+## comments 
+- on bash the comments are    
+     -  for mulit line we start with -;   << comment 
+                                     afca
+                                     efef
+                        commnet    . we close with this
 
 
 
@@ -115,8 +121,10 @@ diviide "let a/=3"
 - Note equal =< -ne
   
   # if else condition
-- on bash we dont have indentation like python 
-
+- on bash we dont have indentation like python but if u finished writing the body you type "fi"
+- if you used [conditon] => u will use alphabetic comparision 
+- but for string you can use sign too
+- if you used ((condition)) => you will use numeric comparision.
 
 
 if [conditon]
@@ -139,4 +147,6 @@ fi
 
 echo "ABcd"
 
+
+## Nested if
 
