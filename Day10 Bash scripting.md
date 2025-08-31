@@ -165,8 +165,21 @@ echo "ABcd"
 
 ## regex....
 - to demonstrate  this we can use Vscode search tools
-- And don't forget to turn the regex button on .
-
+- And don't forget to turn the regex button on 
+- the pattern is same but the implementation may differ on programming language.
+- on Python.
+## Meta characters
+- Those are regex pattern symbol.
+- these are>>>. | ^ | $ | * |
+    -  DOT
+        - Used to get ALL line except new lines
+           - syntax  '.'
+    -  Caret (^)  .Assertion.
+        - Used to get lines that starts with pattens
+           - syntax 
+    -  Dollar sign ($) 
+        - Used to  get line that ends with some pattern.
+        - 
 
 
 
