@@ -76,4 +76,5 @@
 ## Bash for REGEX
 - we use =~ operator for regex check with if condition statements
 - Here we use double brackets for our conditional statments 
-   -  syntax pattern="
+   -  syntax pattern="pattern="YourRegex"
+                     if [[$input =~ ${pattern} ]]
