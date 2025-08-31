@@ -169,8 +169,7 @@ echo "ABcd"
 - the pattern is same but the implementation may differ on programming language.
 - on Python.
 ## Meta characters
-- Those are regex pattern symbol.
-- these are>>>. | ^ | $ | * |
+- Those are regex pattern symbol.    - >>>. | ^ | $ | * | ? |
     -  DOT
         - Used to get ALL line except new lines
            - syntax  '.'
@@ -183,8 +182,16 @@ echo "ABcd"
     - Plus (+) - Quantity
         - used to get that have pattern that occurs 1 and more times.
         - Syntax ' Text+'
-    - Asterix ( '*') - Quantity
-         - Used to get line that have pattern that 
+    - Asterix ( *) - Quantity
+         - Used to get line that have pattern that occurs 0 and more times.
+           -  Syntax 'text*'
+    -  Question mark (?) -Quantity
+       -  used to get line that have pattern that occurs 0 and 1 times.
+        - Syntax 'text?'
+
+## What if
+
+We need 
 
 
 
