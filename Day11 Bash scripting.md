@@ -66,4 +66,14 @@
      - Square bracket ( [ ] ) - custom pattern
         - Used to create your own patterns
            - Syntax [pattern]
-           - 
+
+## Bash regex
+
+- You  can use it on awk, sed and grep 
+#### on grep
+
+ somebody@parrotmachine ~> cat testingREGEX.md | gerp *"^. * @. * [a-z\$]"*   
+## Bash for REGEX
+- we use =~ operator for regex check with if condition statements
+- Here we use double brackets for our conditional statments 
+   -  syntax pattern="
