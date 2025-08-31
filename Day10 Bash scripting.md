@@ -107,37 +107,37 @@ if u need to add new line on your code just add echo
 - division $(a/b)
 - exponential$((a**b))
 - modulo $((a%b))
-# B Assignment opration 
-incremment "let a+=3"
+# B Assignment operation 
+increment "let a+=3"
 decrement "let a-=b"
-multiply"let a*= 3"
-diviide "let a/=3"
-#  C Comparision operator
-- Alphbetic comparion 
+multiply "let a*= 3"
+divide  "let a/=3"
+#  C Comparison operator
+- Alphabetic comparison 
 - Grater than => -gt
 - less than => -lt
-- gater than and equal to => -le
-- equal => -eq
+- Greater than and equal to => -le
+- Equal => -eq
 - Note equal =< -ne
   
   # if else condition
-- on bash we dont have indentation like python but if u finished writing the body you type "fi"
-- if you used [conditon] => u will use alphabetic comparision 
+- on bash we don't have indentation like python but if u finished writing the body you type "fi"
+- if you used [condition] => u will use alphabetic comparison 
 - but for string you can use sign too
-- if you used ((condition)) => you will use numeric comparision.
+- if you used ((condition)) => you will use numeric comparison.
 
 
-if [conditon]
+if [condition]
 then 
 
 
-if ( codition)
+if ( condition)
 
 
-if [conditon]
+if [condition]
 then 
 
-if [conditon]
+if [condition]
 then 
 echo "true"
 else
@@ -149,4 +149,26 @@ echo "ABcd"
 
 
 ## Nested if
+
+
+
+
+# Regular  Expressions!/regex/
+- Most filter validation on any platform done by Regular expression /regex/.
+- They are patterns that helps to filter so texts, space, tabs & symbol.
+- Like telegram or other platform filtering links inside group, filtering some bad words..... Aregex 
+- Regex is PATTERN!
+- Regex are used on linux tools called grep.awk and sed 
+
+**((GOOGLE DORKING))????
+((GITHUB DORKING))????**
+
+## regex....
+- to demonstrate  this we can use Vscode search tools
+- And don't forget to turn the regex button on .
+
+
+
+
+
 
