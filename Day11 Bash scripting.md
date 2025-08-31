@@ -30,32 +30,40 @@
             - syntax 'text$'
     - Plus (+) - Quantity
         - used to get that have pattern that occurs 1 and more times.
-        - Syntax ' Text+'
+            - Syntax ' Text+'
     - Asterix ( *) - Quantity
         - Used to get line that have pattern that occurs 0 and more times.
             - Syntax 'text*'
     - Question mark (?) -Quantity
         - used to get line that have pattern that occurs 0 and 1 times.
-        - Syntax 'text?'
+            - Syntax 'text?'
     - Curly Bracket ({ min, max}) - Quantity
         - Used to get line that have pattern that occurs min and max times. it is custom
-        - Syntax 'text{1,2}' for plus 'text{0,1}' for asterix
+            - Syntax 'text{1,2}' for plus 'text{0,1}' for asterix
     - \w (small letter 'w')
         - used to get alphanumeric
     - \W (capital letter 'W')
         - used to get all except alphanumeric
-        - syntax '\W'
+            - syntax '\W'
     - \s  (small letter 's')
         - Used to get white space.
-        - syntax '\s'
+          - syntax '\s'
     - \S  (capital letter 'S')
         -  Used to get except whitespace 
+            -  syntax 'S'
     - \d (small letter 'd')
         - used to get digits
-        - syntax '\d'
-    - \D 
+           -  syntax '\d'
+    - \D (capital letter 'D')
         - used to get except Digits/nums/
-          - syntax '\D'
+           - syntax '\D'
     - Pipe (  |  ) OR
         - used to search 2 different things
-          - syntax 
+            - syntax 'a|b'
+      - Escape ( \ )
+         - used to search symbols that are metacharacters.
+             - syntax '\sign'
+     - Square bracket ( [ ] ) - custom pattern
+        - Used to create your own patterns
+           - Syntax [pattern]
+           - 
