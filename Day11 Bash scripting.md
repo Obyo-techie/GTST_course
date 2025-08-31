@@ -78,3 +78,4 @@
 - Here we use double brackets for our conditional statments 
    -  syntax pattern="pattern="YourRegex"
                      if [[$input =~ ${pattern} ]]
+
