@@ -176,11 +176,15 @@ echo "ABcd"
            - syntax  '.'
     -  Caret (^)  .Assertion.
         - Used to get lines that starts with pattens
-           - syntax 
+           - syntax '^text'
     -  Dollar sign ($) 
         - Used to  get line that ends with some pattern.
-        - 
-
+           -  syntax 'text$'
+    - Plus (+) - Quantity
+        - used to get that have pattern that occurs 1 and more times.
+        - Syntax ' Text+'
+    - Asterix ( '*') - Quantity
+         - Used to get line that have pattern that 
 
 
 
