@@ -43,4 +43,19 @@
     - \w (small letter 'w')
         - used to get alphanumeric
     - \W (capital letter 'W')
-        - used to get
+        - used to get all except alphanumeric
+        - syntax '\W'
+    - \s  (small letter 's')
+        - Used to get white space.
+        - syntax '\s'
+    - \S  (capital letter 'S')
+        -  Used to get except whitespace 
+    - \d (small letter 'd')
+        - used to get digits
+        - syntax '\d'
+    - \D 
+        - used to get except Digits/nums/
+          - syntax '\D'
+    - Pipe (  |  ) OR
+        - used to search 2 different things
+          - syntax 
